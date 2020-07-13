@@ -28,12 +28,12 @@ body {
  .image-element > .silex-element-content {
 	overflow: hidden;
 }
-.silex-element-content {
-	border-radius: initial;
-	min-height:inherit;
-	width: 100%;
-}
 */
+.html-element .silex-element-content {
+  /* enable HTML content to have style="min-height: inherit;" */
+  min-height: inherit;
+  position: absolute;
+}
 /* wysihtml text editor styles */
 .wysiwyg-float-left {
   float: left;
