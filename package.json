@@ -2,6 +2,9 @@
   "name": "silex-blank-templates",
   "version": "1.6.6",
   "description": "Community templates for Silex website builder",
+  "scripts": {
+    "release": ""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/silexlabs/silex-blank-templates.git"
